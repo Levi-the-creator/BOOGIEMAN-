@@ -1,0 +1,3 @@
+# Ignore authentication data so nobody leaks WhatsApp credentials
+auth/
+node_modules/
